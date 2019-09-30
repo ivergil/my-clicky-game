@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Cincinati",
+        "image": "assets/cinci.ico",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Detroit",
+        "image": "assets/Detroit.png",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Houston",
+        "image": "assets/h.png",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Kansas City",
+        "image": "assets/kc.png",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Los Angeles",
+        "image": "assets/la.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "New York Mets",
+        "image": "assets/ny.png",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "New York Yankees",
+        "image": "assets/nyy.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Pits",
+        "image": "assets/pit.ico",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Seatle",
+        "image": "assets/s.ico",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Sox",
+        "image": "assets/sox.png",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Toronto",
+        "image": "assets/toronto.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "W",
+        "image": "assets/w.png",
+        "clicked": false
+    }
+]
